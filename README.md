@@ -1,3 +1,5 @@
+**NOTE: This never made it past the initial investigation stage**
+
 # generator-energyapps [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > test of generator-generator to create a gen for energy.gov
 
